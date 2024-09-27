@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(0, 0, 0);
+  color: rgb(236, 134, 0);
+}
+span {
+  display: flex;
+  font-family: cursive;
+  font-size: xx-large;
+  margin-top: 140px;
+  margin-left: 500px;
+}
+img {
+  align-items: center;
+  margin-top: 10px;
+  margin-left: 500px;
+}
